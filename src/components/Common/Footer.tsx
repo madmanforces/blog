@@ -18,8 +18,8 @@ const FooterWrapper = styled.div`
 const Footer: FunctionComponent = function () {
   return (
     <FooterWrapper>
-      Thank You for Visiting My Blog, Have a Good Day 😆
-      <br />© 2021 Developer Hyun, Powered By Gatsby.
+      지금까지 제 포트폴리오를 봐주셔서 감사합니다! 😆
+      <br />© 2022 Developer 황순재 , Powered By Gatsby.
     </FooterWrapper>
   )
 }
